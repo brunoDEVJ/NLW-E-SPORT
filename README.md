@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clica aqui para acessar] (htps://brunodevj.github.io/NLW-E-SPORT)
+[Clica aqui para acessar] (https://brunodevj.github.io/NLW-E-SPORT)
 
 ## Tecnologias
 
